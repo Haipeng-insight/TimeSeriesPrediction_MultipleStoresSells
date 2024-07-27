@@ -1,0 +1,1 @@
+Using use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer. This project needs to build a model(models) that predicts the unit sales for 33 product families at 54 stores. The train sales data is from 2013-01-01 to 2017-08-15 and test data is from 2017-08-16 to 2017-08-31
